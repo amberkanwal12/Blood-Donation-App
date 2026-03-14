@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/home.png" width="300" alt="Blood Donation App Banner"/>
+<img src="screenshots/splash.jpeg" width="300" alt="Blood Donation App Banner"/>
 
 # 🩸 Blood Donation App
 ### A Full-Featured Cross-Platform Blood Donation Android Application
@@ -111,44 +111,75 @@ flutter run
 
 <table>
   <tr>
-    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Splash</b></td>
+    <td align="center"><b>Home</b></td>
     <td align="center"><b>Register</b></td>
     <td align="center"><b>Password Reset</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/login.png" width="200"/></td>
-    <td><img src="screenshots/register.png" width="200"/></td>
-    <td><img src="screenshots/reset.png" width="200"/></td>
+    <td><img src="screenshots/splash.jpeg" width="200"/></td>
+    <td><img src="screenshots/h.jpeg" width="200"/></td>
+    <td><img src="screenshots/register.jpeg" width="200"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Logout</b></td>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Password Reset</b></td>
   </tr>
   <tr>
-    <td align="center"><b>Home / Requests Feed</b></td>
-    <td align="center"><b>Request Details</b></td>
-    <td align="center"><b>I Can Donate</b></td>
+    <td><img src="screenshots/logout.jpeg" width="200"/></td>
+    <td><img src="screenshots/h.jpeg" width="200"/></td>
+    <td><img src="screenshots/reset.jpeg" width="200"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Donor</b></td>
+    <td align="center"><b>Donor Profile</b></td>
+    <td align="center"><b>Donor Detail</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="200"/></td>
-    <td><img src="screenshots/request_details.png" width="200"/></td>
-    <td><img src="screenshots/donate.png" width="200"/></td>
+    <td><img src="screenshots/dd.jpeg" width="200"/></td>
+    <td><img src="screenshots/dp.jpeg" width="200"/></td>
+    <td><img src="screenshots/dcon.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Location</b></td>
+    <td align="center"><b>Phone</b></td>
+    <td align="center"><b>Share</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/l.jpeg" width="200"/></td>
+    <td><img src="screenshots/c.jpeg" width="200"/></td>
+    <td><img src="screenshots/share.jpeg" width="200"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Reciever</b></td>
+    <td align="center"><b>Reciever Profile</b></td>
+    <td align="center"><b>Reciver Detail</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/rd.jpeg" width="200"/></td>
+    <td><img src="screenshots/dp.jpeg" width="200"/></td>
+    <td><img src="screenshots/rcon.jpeg" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Submit Request</b></td>
-    <td align="center"><b>User Profile</b></td>
+    <td align="center"><b>News</b></td>
     <td align="center"><b>Edit Profile</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/submit.png" width="200"/></td>
-    <td><img src="screenshots/profile.png" width="200"/></td>
-    <td><img src="screenshots/edit_profile.png" width="200"/></td>
+    <td><img src="screenshots/sbr.jpeg" width="200"/></td>
+    <td><img src="screenshots/news.jpeg" width="200"/></td>
+    <td><img src="screenshots/ep.jpeg" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Admin Dashboard</b></td>
-    <td align="center"><b>Blood Stock</b></td>
-    <td align="center"><b>Donations</b></td>
+     <td align="center"><b>Admin Control</b></td>
+    <td align="center"><b>Admin Profile</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/admin_dashboard.png" width="200"/></td>
-    <td><img src="screenshots/blood_stock.png" width="200"/></td>
-    <td><img src="screenshots/donations.png" width="200"/></td>
+    <td><img src="screenshots/ad.jpeg" width="200"/></td>
+    <td><img src="screenshots/ac.jpeg" width="200"/></td>
+    <td><img src="screenshots/ap.jpeg" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><b>Manage Users</b></td>
@@ -156,9 +187,19 @@ flutter run
     <td align="center"><b>Who Can Donate?</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/manage_users.png" width="200"/></td>
-    <td><img src="screenshots/reports.png" width="200"/></td>
-    <td><img src="screenshots/who_donate.png" width="200"/></td>
+    <td><img src="screenshots/ms.jpeg" width="200"/></td>
+    <td><img src="screenshots/report.jpeg" width="200"/></td>
+    <td><img src="screenshots/wd.jpeg" width="200"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Blood Stock</b></td>
+    <td align="center"><b>Donations</b></td>
+    <td align="center"><b>Who Can Donate?</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/bs.jpeg" width="200"/></td>
+    <td><img src="screenshots/donations.jpeg" width="200"/></td>
+    <td><img src="screenshots/who_donate.jpeg" width="200"/></td>
   </tr>
 </table>
 
