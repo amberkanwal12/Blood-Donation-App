@@ -114,7 +114,7 @@ flutter run
     <td align="center"><b>Splash</b></td>
     <td align="center"><b>Home</b></td>
     <td align="center"><b>Register</b></td>
-    <td align="center"><b>Password Reset</b></td>
+ 
   </tr>
   <tr>
     <td><img src="screenshots/splash.jpeg" width="200"/></td>
@@ -123,12 +123,12 @@ flutter run
   </tr>
     <tr>
     <td align="center"><b>Logout</b></td>
-    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Admin Login</b></td>
     <td align="center"><b>Password Reset</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/logout.jpeg" width="200"/></td>
-    <td><img src="screenshots/h.jpeg" width="200"/></td>
+    <td><img src="screenshots/al.jpeg" width="200"/></td>
     <td><img src="screenshots/reset.jpeg" width="200"/></td>
   </tr>
     <tr>
@@ -187,19 +187,19 @@ flutter run
     <td align="center"><b>Who Can Donate?</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/ms.jpeg" width="200"/></td>
+    <td><img src="screenshots/mu.jpeg" width="200"/></td>
     <td><img src="screenshots/report.jpeg" width="200"/></td>
     <td><img src="screenshots/wd.jpeg" width="200"/></td>
   </tr>
     <tr>
     <td align="center"><b>Blood Stock</b></td>
     <td align="center"><b>Donations</b></td>
-    <td align="center"><b>Who Can Donate?</b></td>
+    <td align="center"><b>Add News</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/bs.jpeg" width="200"/></td>
     <td><img src="screenshots/donations.jpeg" width="200"/></td>
-    <td><img src="screenshots/who_donate.jpeg" width="200"/></td>
+    <td><img src="screenshots/addnews.jpeg" width="200"/></td>
   </tr>
 </table>
 
