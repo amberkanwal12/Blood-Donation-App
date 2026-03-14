@@ -11,7 +11,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
-**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — MAD Subject Project | Riphah International University**
+**Built by [Amber Kanwal](https://linkedin.com/in/amber-kanwal-088b22350) — MAD Subject Project | Contact me for project amberkanwal183@gmai.com**
 
 </div>
 
